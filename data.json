@@ -1,0 +1,46 @@
+[
+    {
+        "Name": "Brass: Birmingham",
+        "Weight": "3.9085",
+        "Average": "8.65839",
+        "BayesAverage": "8.42591",
+        "OverallRank": "3",
+        "Strategy": "1",
+        "Family": "null",
+        "image": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__thumb/img/o18rjEemoWaVru9Y2TyPwuIaRfE=/fit-in/200x150/filters:strip_icc()/pic3490053.jpg",
+        "AverageTime": 90
+    },
+    {
+        "Name": "Gloomhaven",
+        "Weight": "3.8779",
+        "Average": "8.71554",
+        "BayesAverage": "8.48251",
+        "OverallRank": "1",
+        "Strategy": "1",
+        "Family": "2",
+        "image": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__thumb/img/veqFeP4d_3zNhFc3GNBkV95rBEQ=/fit-in/200x150/filters:strip_icc()/pic2437871.jpg",
+        "AverageTime": 90
+    },
+    {
+        "Name": "Gloomhaven: Jaws of the Lion",
+        "Weight": "3.6018",
+        "Average": "8.62022",
+        "BayesAverage": "8.26294",
+        "OverallRank": "4",
+        "Strategy": "3",
+        "Family": "5",
+        "image": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__thumb/img/OMkN_E5eyWrkID_cHCnQEbIixGM=/fit-in/200x150/filters:strip_icc()/pic5055631.jpg",
+        "AverageTime": 75
+    },
+    {
+        "Name": "Pandemic Legacy: Season 1",
+        "Weight": "2.8283",
+        "Average": "8.58319",
+        "BayesAverage": "8.43156",
+        "OverallRank": "2",
+        "Strategy": "2",
+        "Family": "3",
+        "image": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__thumb/img/NQQcjS31TO0DE246N9rpt0hd9eo=/fit-in/200x150/filters:strip_icc()/pic2452831.png",
+        "AverageTime": 60
+    }
+]

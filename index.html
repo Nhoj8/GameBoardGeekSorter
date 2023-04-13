@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr-CA">
+
+<head>
+    <meta charset="utf-8">
+    <title>Projet</title>
+    <script src="script.js" defer></script>
+
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <header><h1>Classeur de Jeu de Societer</h1></header>
+
+    <div class="LeSlider">
+        <div><p id="ScoreText"></p></div> 
+        <input type="range" min="-50" max="50" value="0" class="slider" id="Score">
+      </div>
+    <div class="LeSlider">
+        <div><p id="WeightText"></p></div> 
+        <input type="range" min="-50" max="50" value="0" class="slider" id="Weight">
+      </div>
+      <div class="LeSlider">
+        <div><p id="OverallRankText"></p></div> 
+        <input type="range" min="-50" max="50" value="0" class="slider" id="OverallRank">
+      </div>
+      <div class="LeSlider">
+        <div><p id="FamilyRankText"></p></div> 
+        <input type="range" min="-50" max="50" value="0" class="slider" id="FamilyRank">
+      </div>
+      <div class="LeSlider">
+        <div><p id="StrategyRankText"></p></div> 
+        <input type="range" min="-50" max="50" value="0" class="slider" id="StrategyRank">
+      </div>
+      <div class="LeSlider">
+        <div><p id="BayesScoreText"></p></div> 
+        <input type="range" min="-50" max="50" value="0" class="slider" id="BayesScore">
+      </div>
+      <div class="LeSlider">
+        <div><p id="AverageTimeText"></p></div> 
+        <input type="range" min="-50" max="50" value="0" class="slider" id="AverageTime">
+      </div>
+
+    <div class="lesButton" id = "divDesbutton">
+      <div id="Importer"><input type="number" id="ImporterID"> <p>ID:</p> </div>
+
+      <div id="GetUser"><input type="text" id="UserID"><p>Username:</p> </div>
+    </div>
+    <div class="lesJeu" id = "divDesJeu"></div>
+
+
+</body>
+<!--https://www.boardgamegeek.com/xmlapi2/thing?id=13&stats=1&page=1 https://dash.cloudflare.com/a17849c9f5b6f9db218087f547ca1ba6/workers/services/edit/crimson-sun-c8a9/production -->
+</html>
