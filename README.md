@@ -1,1 +1,1 @@
-# GameBoardGeekSorter will allow you to import all your games from anyones profile on the gameboardgeek website using the api to the json file, then you can sort them and rate them to better pick your next board game
+# GameBoardGeekSorter will allow you to import all your games from anyone's profile on the GameBoardGeek website using the API to the JSON file, then you can sort them and rate them to better pick your next board game
